@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarkHarrigan
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Bootstrap
-- 💞️ I’m not currently looking to collaborte on anything, although this may change at some point.
+- 💞️ I’m not currently looking to collaborate on anything, although this may change at some point.
 - 📫 I can be reached at markharriganmbcs@gmail.com
 
 <!---
